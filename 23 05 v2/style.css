@@ -1,0 +1,16 @@
+#animal{
+    background-color: aqua;
+    color: blue;
+}
+#flower{
+    background-color: yellow;
+    color: red;
+}
+#fruit{
+    background-color: blue;
+    color: rgb(5, 2, 8);
+}
+#bird{
+    background-color: greenyellow;
+    color: goldenrod;
+}

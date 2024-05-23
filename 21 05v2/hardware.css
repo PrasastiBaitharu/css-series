@@ -1,0 +1,11 @@
+h1{
+    background-color: darkslategrey;
+    color: black;
+}
+img{
+    border: 5px solid black;
+}
+a{
+    background-color: aqua;
+    color: blue;
+}

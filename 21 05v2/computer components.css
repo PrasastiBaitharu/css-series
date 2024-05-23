@@ -1,0 +1,14 @@
+h1{
+    background-color: black;
+    color: white;
+}
+p{
+    color: black;
+}
+a{
+    background-color: aquamarine;
+    color: black;
+}
+img{
+    border: 5px solid black;
+}

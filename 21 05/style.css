@@ -1,0 +1,13 @@
+h1 {
+    background-color: yellow;
+}
+p{
+    color: green;
+}
+a{
+    color: blue;
+    background-color: lightgrey;
+}
+img{
+    border: 5px solid black;
+}

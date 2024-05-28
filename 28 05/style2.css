@@ -1,0 +1,36 @@
+#animal{
+    border-style: solid;
+    border-width: 5px;
+    border-color: red;
+    margin-right: 70%;
+    margin-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 40%;
+}
+#flower{
+    border-style: solid;
+    border-width: 5px;
+    border-color: red;
+    margin-left: 20%;
+    
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 40%;
+}
+#fruit{
+    border-style: solid;
+    border-width: 5px;
+    border-color: red;
+    margin-left: 40%;
+    margin-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 40%;
+}

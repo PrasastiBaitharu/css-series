@@ -1,0 +1,20 @@
+#one{
+    background-color: yellow;
+    margin-bottom: 20px;
+}
+#two{
+    background-color: green ;
+}
+p{
+    background-color: pink;
+    display: inline;
+}
+a{
+    background-color: red;
+    display:inline-block;
+}
+a:hover{
+    background-color: white;
+    transition: 0.9s;
+
+}

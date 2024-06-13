@@ -1,0 +1,79 @@
+.mobile{
+    display: flex;
+    
+}
+h1{
+    font-size: 50px;
+    margin-left: 20px;
+}
+.f54{
+    border: 5px solid ;
+    color: black;
+    margin: 0px 15px;
+    padding: 30px 10px;
+    
+}
+.f54 h2{
+   
+    text-align: center;
+}
+
+.m14{
+    border: 5px solid ;
+    color: black;
+    margin: 5px 15px;
+    padding: 10px 10px;
+}
+.m14 h2{
+    text-align: center;
+}
+.m15{
+    border: 5px solid ;
+    color: black;
+    margin: 5px 15px;
+    padding: 10px 10px;
+}
+.m15 h2{
+    text-align: center;
+}
+.m34{
+    border: 5px solid ;
+    color: black;
+    margin: 5px 15px;
+    padding: 10px 10px;
+}
+.m34 h2{
+    text-align: center;
+}
+.s23ultra{
+    border: 5px solid ;
+    color: black;
+    margin: 5px 15px;
+    padding: 10px 10px;
+}
+.s23ultra h2{
+    text-align: center;
+}
+
+.s23{
+    border: 5px solid ;
+    color: black;
+    margin: 5px 15px;
+    padding: 10px 10px;
+}
+.s23 h2{
+    text-align: center;
+}
+
+
+
+
+
+
+
+.r img{
+    width: 100px;
+    margin-left: 150px;
+}
+
+

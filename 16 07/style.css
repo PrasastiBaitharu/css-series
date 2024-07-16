@@ -1,0 +1,49 @@
+.container{
+    border: 2px solid black;
+    width: 50%;
+    height: 50vh;
+    position: relative;
+    margin: auto;
+}
+.child{
+    width: 150px;
+    height: 15vh;
+    border: 2px solid black;
+    margin: 10px 10px;
+    text-align: center;
+    font-size: 30px;
+    background-color: aqua;
+    color: white;
+    position: absolute;
+
+}
+/*.child-2{
+    top: 0;
+    right: 0;
+}*/
+
+.child-4{
+    z-index: 1000;
+}
+.child-3{
+    left: 200px;
+    z-index: 1200;
+    position: fixed;
+}
+#first{
+    color: blue;
+}
+#second{
+    color: brown;
+}
+.newone{
+    width: 400px;
+    height: 500px;
+    background-color: yellow;
+    color: red;
+    position: relative;
+}
+h1{
+    top: 50px;
+    position: sticky;
+}
